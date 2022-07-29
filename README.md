@@ -28,7 +28,7 @@
 
 ## File: 2006_classification_manual.pdf
 
-1. Provide the definition of each fiscal variable and the measurement issues. 
+1. Define each fiscal variable and the measurement issues.
 
 
 ## File: methodology_for_summary_tabulations.xls
