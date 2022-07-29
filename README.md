@@ -1,6 +1,6 @@
 # Data-Local-Fiscal
 
-File: 2017 S&L Indiv Unit Data File Tech Doc.pdf
+## File: 2017 S&L Indiv Unit Data File Tech Doc.pdf
 
 1. There are five types of local government: (1) County, (2) City, (3) Town, (4) Special district, and (5) School district.
 
@@ -11,7 +11,7 @@ File: 2017 S&L Indiv Unit Data File Tech Doc.pdf
 1.3 OMB defines MSA (Metropolitan Statistical Area), including a central city and surrounding suburbs. It is the economic boundary. (Delineation files)
 
 
-File: GOVS_ID_to_FIPS_Place_Codes_2012.xls, GOVS_to_FIPS_Codes_State_&_County_2012.xls
+## File: GOVS_ID_to_FIPS_Place_Codes_2012.xls, GOVS_to_FIPS_Codes_State_&_County_2012.xls
 
 1. Local governments are identified by "id_govs."
 
@@ -26,17 +26,17 @@ File: GOVS_ID_to_FIPS_Place_Codes_2012.xls, GOVS_to_FIPS_Codes_State_&_County_20
 1.5 Local fiscal data are provided in Govs_code
 
 
-File: 2006_classification_manual.pdf
+## File: 2006_classification_manual.pdf
 
 1. Provide the definition of each fiscal variable and the measurement issues. 
 
 
-File: methodology_for_summary_tabulations.xls
+## File: methodology_for_summary_tabulations.xls
 
 1. Provide the item code for each variable.
 
 
-Data source (Please cite this website for this file): 
+## Data source (Please cite this website for this file): 
 1. Fiscal data: https://www2.census.gov/programs-surveys/gov-finances/
 2. Delineation files: https://www.census.gov/geographies/reference-files/time-series/demo/metro-micro/delineation-files.html
 
