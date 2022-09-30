@@ -1,5 +1,12 @@
 # Data-Local-Fiscal
 
+## Data: 
+
+1. Master_xx.dta: annual data, decomposing by MSA
+
+2. 
+
+
 ## File: 2017 S&L Indiv Unit Data File Tech Doc.pdf
 
 1. There are five types of local government: (1) County, (2) City, (3) Town, (4) Special district, and (5) School district.
