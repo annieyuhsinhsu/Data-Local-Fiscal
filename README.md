@@ -2,9 +2,9 @@
 
 ## Data: 
 
-1. Master_xx.dta: annual data, decomposing by MSA
+1. Master_xx.dta: annual data, decomposing by MSA, top 60 biggest city and their surrounding suburbs
 
-2. 
+2. IndFin_final_cz_xxx.dta: decadal data, decomposing by CZs, top 100 biggest commuting zones (defined by 1990 Census population)
 
 
 ## File: 2017 S&L Indiv Unit Data File Tech Doc.pdf
