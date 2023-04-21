@@ -6,12 +6,6 @@
 
 2. IndFin_final_cz_xxx.dta: decadal data, decomposing by CZs, top 100 biggest commuting zones (defined by 1990 Census population)
 
--Source: 
--1. Annual Survey of State and Local Government Finances  
--https://www.census.gov/programs-surveys/gov-finances/data/historical-data.html
-
--2. Pierson K., Hand M., and Thompson F. (2015). The Government Finance Database: A Common Resource for Quantitative Research in Public Financial Analysis. PLoS ONE doi: 10.1371/journal.pone.0130119
--https://willamette.edu/mba/research-impact/public-datasets/index.html
 
 ## File: 2017 S&L Indiv Unit Data File Tech Doc.pdf
 
@@ -52,4 +46,5 @@
 ## Data source (Please cite this website for this file): 
 1. Fiscal data: https://www2.census.gov/programs-surveys/gov-finances/
 2. Delineation files: https://www.census.gov/geographies/reference-files/time-series/demo/metro-micro/delineation-files.html
-
+3. Annual Survey of State and Local Government Finances: https://www.census.gov/programs-surveys/gov-finances/data/historical-data.html
+4. Pierson K., Hand M., and Thompson F. (2015). The Government Finance Database: A Common Resource for Quantitative Research in Public Financial Analysis. PLoS ONE doi: 10.1371/journal.pone.0130119: https://willamette.edu/mba/research-impact/public-datasets/index.html
