@@ -9,6 +9,7 @@
 -Source: 
 -1. Annual Survey of State and Local Government Finances  
 -https://www.census.gov/programs-surveys/gov-finances/data/historical-data.html
+
 -2. Pierson K., Hand M., and Thompson F. (2015). The Government Finance Database: A Common Resource for Quantitative Research in Public Financial Analysis. PLoS ONE doi: 10.1371/journal.pone.0130119
 -https://willamette.edu/mba/research-impact/public-datasets/index.html
 
